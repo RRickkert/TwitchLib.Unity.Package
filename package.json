@@ -1,0 +1,14 @@
+{
+  "name": "com.TwitchLib.Unity",
+  "displayName": "TwitchLib for Unity",
+  "description": "This package adds TwitchLib support for Unity",
+  "version": "1.1.0-preview.10",
+  "unity": "2019.1",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RRickkert/TwitchLib.Unity.Package.git"
+  },
+  "author": "RRickkert <rrickkert@hotmail.com> (https://github.com/RRickkert)",
+  "dependencies": {}
+}
