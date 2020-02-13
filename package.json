@@ -1,5 +1,5 @@
 {
-  "name": "com.TwitchLib.Unity",
+  "name": "com.Unity.TwitchLib",
   "displayName": "TwitchLib for Unity",
   "description": "This package adds TwitchLib support for Unity",
   "version": "1.1.0-preview.10",
